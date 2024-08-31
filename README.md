@@ -1,4 +1,4 @@
-# 🍕🍕🍕Python Pizza Recipe 🍕🍕🍕 
+# 🍕🍕🍕 Python Pizza Recipe 🍕🍕🍕 
 
 # Introduction
 
@@ -22,11 +22,11 @@ There is a Github Organisation and a Discord server.
 
 If you need an invitation, reach out to any of the current or previous organizers.
 
-## Build a team
+## Build a Team
 
 Build a team of ideally 3-5 people. Don’t do it alone. 
 
-## Secure the pizza (and beverages)
+## Secure the Pizza (and beverages)
 
 Pizza is the second most important thing in the Python Pizza event.
 
@@ -39,7 +39,7 @@ Make sure to:
 If you’re organizing a whole-day event, keep in mind you will also need tea, coffee, water and other beverages.  
 You probably also want some snacks for coffee breaks.
 
-## Set a date
+## Set a Date
 
 Make sure to not collide with any other nearby events. Check python.org events calendar [https://www.python.org/events/](https://www.python.org/events/) and python organizers calendar: [https://github.com/python-organizers/conferences](https://github.com/python-organizers/conferences) also local meetups, etc.
 
@@ -164,7 +164,7 @@ To give you some context about the budget: the total income of Prague Python Piz
 
 #### Czech Republic:
 
-In the Czech Republic, Pyvec is your friend. For details please see: [https://docs.pyvec.org/operations/runbooks.html\#jak-proplatit](https://docs.pyvec.org/operations/runbooks.html\#jak-proplatit) 
+In the Czech Republic, Pyvec is your friend. For details please see: [https://docs.pyvec.org/operations/runbooks.html\#jak-proplatit](https://docs.pyvec.org/operations/runbooks.html#jak-si-nechat-neco-proplatit) 
 
 # Code of Conduct
 
@@ -306,4 +306,4 @@ There are a few things to do after the event is finished.
 
 1. Process the reimbursements  
 2. Publish a write-up about your event. See this example for inspiration: [https://blog.python.cz/prague-python-pizza](https://blog.python.cz/prague-python-pizza)   
-3. Post conference feedback form. See example here, form “Survey”: [https://drive.google.com/drive/folders/1iDcWwoGl3fwLDOSD5MZlyrGKLdEj\_VKM?usp=drive\_link](https://drive.google.com/drive/folders/1iDcWwoGl3fwLDOSD5MZlyrGKLdEj\_VKM?usp=drive\_link)
+3. Post conference feedback form. See example here, form “Survey”: [https://drive.google.com/drive/folders/1iDcWwoGl3fwLDOSD5MZlyrGKLdEj_VKM](https://drive.google.com/drive/folders/1iDcWwoGl3fwLDOSD5MZlyrGKLdEj_VKM)
