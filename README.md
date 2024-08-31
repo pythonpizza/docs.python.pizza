@@ -306,4 +306,4 @@ There are a few things to do after the event is finished.
 
 1. Process the reimbursements  
 2. Publish a write-up about your event. See this example for inspiration: [https://blog.python.cz/prague-python-pizza](https://blog.python.cz/prague-python-pizza)   
-3. Post conference feedback form. See example here, form “Survey”: [https://drive.google.com/drive/folders/1iDcWwoGl3fwLDOSD5MZlyrGKLdEj\_VKM?usp=drive\_link](https://drive.google.com/drive/folders/1iDcWwoGl3fwLDOSD5MZlyrGKLdEj\_VKM?usp=drive\_link)
+3. Post conference feedback form. See example here, form “Survey”: [https://drive.google.com/drive/folders/1iDcWwoGl3fwLDOSD5MZlyrGKLdEj_VKM](https://drive.google.com/drive/folders/1iDcWwoGl3fwLDOSD5MZlyrGKLdEj_VKM)
