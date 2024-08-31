@@ -164,7 +164,7 @@ To give you some context about the budget: the total income of Prague Python Piz
 
 #### Czech Republic:
 
-In the Czech Republic, Pyvec is your friend. For details please see: [https://docs.pyvec.org/operations/runbooks.html\#jak-proplatit](https://docs.pyvec.org/operations/runbooks.html#jak-si-nechat-neco-proplatit) 
+In the Czech Republic, Pyvec is your friend. For details please see: [https://docs.pyvec.org/operations/runbooks.html#jak-si-nechat-neco-proplatit](https://docs.pyvec.org/operations/runbooks.html#jak-si-nechat-neco-proplatit) 
 
 # Code of Conduct
 
@@ -210,7 +210,7 @@ Once you've selected the talks, copy them to the "Accepted Talks" tab. This tab 
 * Accepted Talk: Use the template under the name “For accepted”  
 * Rejected Talk: Use the template under the name “For rejected”
 
-Both templates are in the “Speaker Communication” document: [https://docs.google.com/document/d/1hlo\_L0Ty1eVrfo6VhrGV-upqTu8Xjh4-Lk6Qe\_9XPkA/edit?usp=sharing](https://docs.google.com/document/d/1hlo\_L0Ty1eVrfo6VhrGV-upqTu8Xjh4-Lk6Qe\_9XPkA/edit?usp=sharing). 
+Both templates are in the “Speaker Communication” document: [https://docs.google.com/document/d/1hlo_L0Ty1eVrfo6VhrGV-upqTu8Xjh4-Lk6Qe_9XPkA](https://docs.google.com/document/d/1hlo_L0Ty1eVrfo6VhrGV-upqTu8Xjh4-Lk6Qe_9XPkA). 
 
 Columns Legend:
 
@@ -255,8 +255,8 @@ If you'd like to send reminders, you'll need to collect the emails again and ens
 
 We use three social media platforms for all communication: 
 
-1. Twitter/X: https://x.com/pythonpizzaconf  
-2. LinkedIn: https://www.linkedin.com/company/python-pizza  
+1. Twitter/X: [https://x.com/pythonpizzaconf](https://x.com/pythonpizzaconf)  
+2. LinkedIn: [https://www.linkedin.com/company/python-pizza](https://www.linkedin.com/company/python-pizza)  
 3. Mastodon: [https://fosstodon.org/@pythonpizza/](https://fosstodon.org/@pythonpizza/)
 
 In order to receive access to these accounts, ask on Discord. 
@@ -265,7 +265,7 @@ In order to receive access to these accounts, ask on Discord.
 
 For social media posts we have templates in Canva. In order to use it, please duplicate the design and fill in templates as needed. 
 
-Link to templates: [https://www.canva.com/design/DAGPavfLrtQ/fZPjwfF7Bi7UCh-6OFyStw/edit](https://www.canva.com/design/DAGPavfLrtQ/fZPjwfF7Bi7UCh-6OFyStw/edit?utm\_content=DAGPavfLrtQ\&utm\_campaign=designshare\&utm\_medium=link2\&utm\_source=sharebutton/) 
+Link to templates: [https://www.canva.com/design/DAGPavfLrtQ/fZPjwfF7Bi7UCh-6OFyStw/edit](https://www.canva.com/design/DAGPavfLrtQ/fZPjwfF7Bi7UCh-6OFyStw/edit) 
 
 ## Media Timeline
 
@@ -285,7 +285,7 @@ We did issue a few refunds, but keep in mind that refunds sometimes come with ad
 
 ### Attendee Communication
 
-Before the event, it’s important to send attendees essential information. The template that we usd in named “Participant email for on-site participants”: [https://docs.google.com/document/d/1hlo\_L0Ty1eVrfo6VhrGV-upqTu8Xjh4-Lk6Qe\_9XPkA](https://docs.google.com/document/d/1hlo\_L0Ty1eVrfo6VhrGV-upqTu8Xjh4-Lk6Qe\_9XPkA) 
+Before the event, it’s important to send attendees essential information. The template that we usd in named “Participant email for on-site participants”: [https://docs.google.com/document/d/1hlo_L0Ty1eVrfo6VhrGV-upqTu8Xjh4-Lk6Qe_9XPkA](https://docs.google.com/document/d/1hlo_L0Ty1eVrfo6VhrGV-upqTu8Xjh4-Lk6Qe_9XPkA) 
 
 ## Streaming and Online Interaction
 
