@@ -104,7 +104,7 @@ In the future we would like to use official @python.pizza emails, however there 
 ## Domain
 
 All python pizza websites use the python.pizza domain with this format: **https://\<city\>.python.pizza**  
-To have your city added, simply ask in the **\#random** channel in Discord.
+To have your city added, simply ask in the **\#random** channel in the [Python Pizza Discord](https://discord.gg/yPsWSBFbyc).
 
 ## Repository
 
